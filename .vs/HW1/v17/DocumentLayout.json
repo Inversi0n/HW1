@@ -3,20 +3,72 @@
   "WorkspaceRootPath": "D:\\Projects\\HW1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|D:\\Projects\\HW1\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{F28080D4-C9D2-48E7-B288-4F7CEB6E85F1}|DAL.Orders\\DAL.Orders.csproj|d:\\projects\\hw1\\dal.orders\\repositories\\customersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F28080D4-C9D2-48E7-B288-4F7CEB6E85F1}|DAL.Orders\\DAL.Orders.csproj|solutionrelative:dal.orders\\repositories\\customersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E01D64B3-8BC0-40C8-9E46-6C240C0B26C4}|MyApi\\MyApi.csproj|d:\\projects\\hw1\\myapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E01D64B3-8BC0-40C8-9E46-6C240C0B26C4}|MyApi\\MyApi.csproj|solutionrelative:myapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{F28080D4-C9D2-48E7-B288-4F7CEB6E85F1}|DAL.Orders\\DAL.Orders.csproj|d:\\projects\\hw1\\dal.orders\\repositories\\ordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F28080D4-C9D2-48E7-B288-4F7CEB6E85F1}|DAL.Orders\\DAL.Orders.csproj|solutionrelative:dal.orders\\repositories\\ordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28080D4-C9D2-48E7-B288-4F7CEB6E85F1}|DAL.Orders\\DAL.Orders.csproj|d:\\projects\\hw1\\dal.orders\\services\\ordersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F28080D4-C9D2-48E7-B288-4F7CEB6E85F1}|DAL.Orders\\DAL.Orders.csproj|solutionrelative:dal.orders\\services\\ordersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28080D4-C9D2-48E7-B288-4F7CEB6E85F1}|DAL.Orders\\DAL.Orders.csproj|d:\\projects\\hw1\\dal.orders\\services\\customersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F28080D4-C9D2-48E7-B288-4F7CEB6E85F1}|DAL.Orders\\DAL.Orders.csproj|solutionrelative:dal.orders\\services\\customersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28080D4-C9D2-48E7-B288-4F7CEB6E85F1}|DAL.Orders\\DAL.Orders.csproj|d:\\projects\\hw1\\dal.orders\\services\\productsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F28080D4-C9D2-48E7-B288-4F7CEB6E85F1}|DAL.Orders\\DAL.Orders.csproj|solutionrelative:dal.orders\\services\\productsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28080D4-C9D2-48E7-B288-4F7CEB6E85F1}|DAL.Orders\\DAL.Orders.csproj|d:\\projects\\hw1\\dal.orders\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F28080D4-C9D2-48E7-B288-4F7CEB6E85F1}|DAL.Orders\\DAL.Orders.csproj|solutionrelative:dal.orders\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28080D4-C9D2-48E7-B288-4F7CEB6E85F1}|DAL.Orders\\DAL.Orders.csproj|d:\\projects\\hw1\\dal.orders\\repositories\\productsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F28080D4-C9D2-48E7-B288-4F7CEB6E85F1}|DAL.Orders\\DAL.Orders.csproj|solutionrelative:dal.orders\\repositories\\productsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28080D4-C9D2-48E7-B288-4F7CEB6E85F1}|DAL.Orders\\DAL.Orders.csproj|d:\\projects\\hw1\\dal.orders\\dbmodels\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F28080D4-C9D2-48E7-B288-4F7CEB6E85F1}|DAL.Orders\\DAL.Orders.csproj|solutionrelative:dal.orders\\dbmodels\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28080D4-C9D2-48E7-B288-4F7CEB6E85F1}|DAL.Orders\\DAL.Orders.csproj|d:\\projects\\hw1\\dal.orders\\dbmodels\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F28080D4-C9D2-48E7-B288-4F7CEB6E85F1}|DAL.Orders\\DAL.Orders.csproj|solutionrelative:dal.orders\\dbmodels\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28080D4-C9D2-48E7-B288-4F7CEB6E85F1}|DAL.Orders\\DAL.Orders.csproj|d:\\projects\\hw1\\dal.orders\\dbmodels\\dbentitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F28080D4-C9D2-48E7-B288-4F7CEB6E85F1}|DAL.Orders\\DAL.Orders.csproj|solutionrelative:dal.orders\\dbmodels\\dbentitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28080D4-C9D2-48E7-B288-4F7CEB6E85F1}|DAL.Orders\\DAL.Orders.csproj|d:\\projects\\hw1\\dal.orders\\repositories\\dbrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F28080D4-C9D2-48E7-B288-4F7CEB6E85F1}|DAL.Orders\\DAL.Orders.csproj|solutionrelative:dal.orders\\repositories\\dbrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28080D4-C9D2-48E7-B288-4F7CEB6E85F1}|DAL.Orders\\DAL.Orders.csproj|d:\\projects\\hw1\\dal.orders\\dbmodels\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F28080D4-C9D2-48E7-B288-4F7CEB6E85F1}|DAL.Orders\\DAL.Orders.csproj|solutionrelative:dal.orders\\dbmodels\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E01D64B3-8BC0-40C8-9E46-6C240C0B26C4}|MyApi\\MyApi.csproj|d:\\projects\\hw1\\myapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E01D64B3-8BC0-40C8-9E46-6C240C0B26C4}|MyApi\\MyApi.csproj|solutionrelative:myapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|D:\\Projects\\HW1\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01D64B3-8BC0-40C8-9E46-6C240C0B26C4}|MyApi\\MyApi.csproj|d:\\projects\\hw1\\myapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E01D64B3-8BC0-40C8-9E46-6C240C0B26C4}|MyApi\\MyApi.csproj|solutionrelative:myapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E01D64B3-8BC0-40C8-9E46-6C240C0B26C4}|MyApi\\MyApi.csproj|d:\\projects\\hw1\\myapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{E01D64B3-8BC0-40C8-9E46-6C240C0B26C4}|MyApi\\MyApi.csproj|solutionrelative:myapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01D64B3-8BC0-40C8-9E46-6C240C0B26C4}|MyApi\\MyApi.csproj|d:\\projects\\hw1\\myapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E01D64B3-8BC0-40C8-9E46-6C240C0B26C4}|MyApi\\MyApi.csproj|solutionrelative:myapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{651575C5-EA08-7F43-E45E-302601476AE4}|WorkerService1\\WorkerService1.csproj|d:\\projects\\hw1\\workerservice1\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -42,11 +94,168 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomersRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\HW1\\DAL.Orders\\Repositories\\CustomersRepository.cs",
+              "RelativeDocumentMoniker": "DAL.Orders\\Repositories\\CustomersRepository.cs",
+              "ToolTip": "D:\\Projects\\HW1\\DAL.Orders\\Repositories\\CustomersRepository.cs",
+              "RelativeToolTip": "DAL.Orders\\Repositories\\CustomersRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T15:21:34.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomersService.cs",
+              "DocumentMoniker": "D:\\Projects\\HW1\\DAL.Orders\\Services\\CustomersService.cs",
+              "RelativeDocumentMoniker": "DAL.Orders\\Services\\CustomersService.cs",
+              "ToolTip": "D:\\Projects\\HW1\\DAL.Orders\\Services\\CustomersService.cs",
+              "RelativeToolTip": "DAL.Orders\\Services\\CustomersService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T15:21:19.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductsService.cs",
+              "DocumentMoniker": "D:\\Projects\\HW1\\DAL.Orders\\Services\\ProductsService.cs",
+              "RelativeDocumentMoniker": "DAL.Orders\\Services\\ProductsService.cs",
+              "ToolTip": "D:\\Projects\\HW1\\DAL.Orders\\Services\\ProductsService.cs",
+              "RelativeToolTip": "DAL.Orders\\Services\\ProductsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T15:20:50.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductsRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\HW1\\DAL.Orders\\Repositories\\ProductsRepository.cs",
+              "RelativeDocumentMoniker": "DAL.Orders\\Repositories\\ProductsRepository.cs",
+              "ToolTip": "D:\\Projects\\HW1\\DAL.Orders\\Repositories\\ProductsRepository.cs",
+              "RelativeToolTip": "DAL.Orders\\Repositories\\ProductsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T15:19:08.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Projects\\HW1\\DAL.Orders\\DbModels\\Customer.cs",
+              "RelativeDocumentMoniker": "DAL.Orders\\DbModels\\Customer.cs",
+              "ToolTip": "D:\\Projects\\HW1\\DAL.Orders\\DbModels\\Customer.cs",
+              "RelativeToolTip": "DAL.Orders\\DbModels\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T15:17:22.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DbRepositoryBase.cs",
+              "DocumentMoniker": "D:\\Projects\\HW1\\DAL.Orders\\Repositories\\DbRepositoryBase.cs",
+              "RelativeDocumentMoniker": "DAL.Orders\\Repositories\\DbRepositoryBase.cs",
+              "ToolTip": "D:\\Projects\\HW1\\DAL.Orders\\Repositories\\DbRepositoryBase.cs",
+              "RelativeToolTip": "DAL.Orders\\Repositories\\DbRepositoryBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T15:10:15.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrdersService.cs",
+              "DocumentMoniker": "D:\\Projects\\HW1\\DAL.Orders\\Services\\OrdersService.cs",
+              "RelativeDocumentMoniker": "DAL.Orders\\Services\\OrdersService.cs",
+              "ToolTip": "D:\\Projects\\HW1\\DAL.Orders\\Services\\OrdersService.cs",
+              "RelativeToolTip": "DAL.Orders\\Services\\OrdersService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T15:06:51.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Projects\\HW1\\DAL.Orders\\DbModels\\Product.cs",
+              "RelativeDocumentMoniker": "DAL.Orders\\DbModels\\Product.cs",
+              "ToolTip": "D:\\Projects\\HW1\\DAL.Orders\\DbModels\\Product.cs",
+              "RelativeToolTip": "DAL.Orders\\DbModels\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T14:49:38.679Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "OrdersRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\HW1\\DAL.Orders\\Repositories\\OrdersRepository.cs",
+              "RelativeDocumentMoniker": "DAL.Orders\\Repositories\\OrdersRepository.cs",
+              "ToolTip": "D:\\Projects\\HW1\\DAL.Orders\\Repositories\\OrdersRepository.cs",
+              "RelativeToolTip": "DAL.Orders\\Repositories\\OrdersRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T14:48:21.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DbEntityBase.cs",
+              "DocumentMoniker": "D:\\Projects\\HW1\\DAL.Orders\\DbModels\\DbEntityBase.cs",
+              "RelativeDocumentMoniker": "DAL.Orders\\DbModels\\DbEntityBase.cs",
+              "ToolTip": "D:\\Projects\\HW1\\DAL.Orders\\DbModels\\DbEntityBase.cs",
+              "RelativeToolTip": "DAL.Orders\\DbModels\\DbEntityBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T14:44:16.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Projects\\HW1\\DAL.Orders\\DbModels\\Order.cs",
+              "RelativeDocumentMoniker": "DAL.Orders\\DbModels\\Order.cs",
+              "ToolTip": "D:\\Projects\\HW1\\DAL.Orders\\DbModels\\Order.cs",
+              "RelativeToolTip": "DAL.Orders\\DbModels\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T14:43:59.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Projects\\HW1\\DAL.Orders\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DAL.Orders\\AppDbContext.cs",
+              "ToolTip": "D:\\Projects\\HW1\\DAL.Orders\\AppDbContext.cs",
+              "RelativeToolTip": "DAL.Orders\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T14:42:21.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\HW1\\MyApi\\appsettings.json",
+              "RelativeDocumentMoniker": "MyApi\\appsettings.json",
+              "ToolTip": "D:\\Projects\\HW1\\MyApi\\appsettings.json",
+              "RelativeToolTip": "MyApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-23T14:38:18.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\Projects\\HW1\\MyApi\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "MyApi\\Properties\\launchSettings.json",
@@ -54,12 +263,11 @@
               "RelativeToolTip": "MyApi\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-22T17:22:29.35Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-22T17:22:29.35Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 19,
               "Title": "HelloController.cs",
               "DocumentMoniker": "D:\\Projects\\HW1\\MyApi\\Controllers\\HelloController.cs",
               "RelativeDocumentMoniker": "MyApi\\Controllers\\HelloController.cs",
@@ -71,20 +279,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 13,
               "Title": "docker-compose.yml",
               "DocumentMoniker": "D:\\Projects\\HW1\\docker-compose.yml",
               "RelativeDocumentMoniker": "docker-compose.yml",
               "ToolTip": "D:\\Projects\\HW1\\docker-compose.yml",
               "RelativeToolTip": "docker-compose.yml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-12-22T15:33:54.06Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-22T15:33:54.06Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 20,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "D:\\Projects\\HW1\\MyApi\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "MyApi\\Controllers\\WeatherForecastController.cs",
@@ -96,7 +303,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 17,
               "Title": "Dockerfile",
               "DocumentMoniker": "D:\\Projects\\HW1\\WorkerService1\\Dockerfile",
               "RelativeDocumentMoniker": "WorkerService1\\Dockerfile",
@@ -108,37 +315,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Projects\\HW1\\MyApi\\Program.cs",
               "RelativeDocumentMoniker": "MyApi\\Program.cs",
               "ToolTip": "D:\\Projects\\HW1\\MyApi\\Program.cs",
               "RelativeToolTip": "MyApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-22T15:22:11.773Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 15,
               "Title": "Dockerfile",
               "DocumentMoniker": "D:\\Projects\\HW1\\MyApi\\Dockerfile",
               "RelativeDocumentMoniker": "MyApi\\Dockerfile",
               "ToolTip": "D:\\Projects\\HW1\\MyApi\\Dockerfile",
               "RelativeToolTip": "MyApi\\Dockerfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-12-22T15:20:34.443Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 18,
               "Title": "MyApi.csproj",
               "DocumentMoniker": "D:\\Projects\\HW1\\MyApi\\MyApi.csproj",
               "RelativeDocumentMoniker": "MyApi\\MyApi.csproj",
               "ToolTip": "D:\\Projects\\HW1\\MyApi\\MyApi.csproj",
               "RelativeToolTip": "MyApi\\MyApi.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-12-22T15:19:53.392Z"
             }
