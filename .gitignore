@@ -59,6 +59,7 @@ bld/
 [Oo]bj/
 [Ll]og/
 [Ll]ogs/
+*[Oo]bj/
 
 # Visual Studio 2015/2017 cache/options directory
 .vs/
@@ -480,25 +481,3 @@ $RECYCLE.BIN/
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
-
-# Settings
-*.runsettings
-launchSettings.json
-
-
-Ofs.Api/Properties/launchSettings.json
-Ofs.Core/ofs.tt
-.runsettings.dev.txt
-.runsettings.prod.txt
-.runsettings.base
-Ofs.Tests/appsettings.json
-Ofs.Tests/Properties/launchSettings.json
-.runsettings.dev
-Ofs.InnerAPI/serviceAccountKey.json
-*.bak
-Ofs.Tests/dev.appsettings.json
-Ofs.Tests/appsettings_ru.json
-Ofs.Tests/dev.appsettings_ru.json
-/Ofs.UnitTests/appsettings.json
-/Ofs.UnitTests/dev.appsettings.json
-/Ofs.Worker/appsettings.json
