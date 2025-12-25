@@ -1,4 +1,6 @@
-﻿namespace DAL.Orders.DbModels
+﻿using DAL.Orders.DbModels.Base;
+
+namespace DAL.Orders.DbModels
 {
     public class Order : DbEntityBase
     {

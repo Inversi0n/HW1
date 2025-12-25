@@ -1,9 +1,10 @@
 ﻿using DAL.Orders.DbModels;
 using DAL.Orders.Repositories;
+using DAL.Orders.Services.Base;
 
 namespace DAL.Orders.Services
 {
-    public class OrdersService
+    public class OrdersService : IOrdersService
     {
         private readonly OrdersRepository _repo;
 
@@ -18,7 +19,7 @@ namespace DAL.Orders.Services
         }
         public async Task<bool> Update(params Order[] orders)
         {
-          return await _repo.Update(orders);
+            return await _repo.Update(orders);
         }
 
         public async Task<Order[]> GetByIds(params int[] ids)

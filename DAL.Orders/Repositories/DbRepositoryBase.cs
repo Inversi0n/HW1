@@ -1,4 +1,4 @@
-﻿using DAL.Orders.DbModels;
+﻿using DAL.Orders.DbModels.Base;
 using Microsoft.EntityFrameworkCore;
 
 namespace DAL.Orders.Repositories
