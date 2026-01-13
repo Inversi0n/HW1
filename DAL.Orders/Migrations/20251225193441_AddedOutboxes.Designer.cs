@@ -3,6 +3,7 @@ using System;
 using DAL.Orders;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 
@@ -11,9 +12,11 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 namespace DAL.Orders.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    partial class AppDbContextModelSnapshot : ModelSnapshot
+    [Migration("20251225193441_AddedOutboxes")]
+    partial class AddedOutboxes
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -40,9 +43,6 @@ namespace DAL.Orders.Migrations
 
                     b.HasKey("Id");
 
-                    b.HasIndex("Email")
-                        .IsUnique();
-
                     b.ToTable("Customers");
                 });
 
@@ -55,9 +55,6 @@ namespace DAL.Orders.Migrations
                     NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
 
                     b.Property<DateTime>("BoughtAt")
-                        .HasColumnType("timestamp with time zone");
-
-                    b.Property<DateTime?>("ConfirmedAt")
                         .HasColumnType("timestamp with time zone");
 
                     b.Property<int>("CustomerId")
@@ -82,19 +79,17 @@ namespace DAL.Orders.Migrations
                     b.Property<DateTime>("CreatedAt")
                         .HasColumnType("timestamp with time zone");
 
+                    b.Property<bool>("IsHandled")
+                        .HasColumnType("boolean");
+
                     b.Property<int>("MessageType")
                         .HasColumnType("integer");
 
-                    b.Property<string>("Payload")
+                    b.Property<string>("Value")
                         .IsRequired()
                         .HasColumnType("text");
 
-                    b.Property<DateTime?>("ProcessedAt")
-                        .HasColumnType("timestamp with time zone");
-
                     b.HasKey("Id");
-
-                    b.HasIndex("MessageType", "ProcessedAt");
 
                     b.ToTable("OutboxMessages");
                 });

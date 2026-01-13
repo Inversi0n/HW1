@@ -7,6 +7,6 @@ namespace DAL.Orders.DbModels
         public int ProductId { get; set; }
         public int CustomerId { get; set; }
         public DateTime BoughtAt { get; set; }
-
+        public DateTime? ConfirmedAt { get; set; }
     }
 }
