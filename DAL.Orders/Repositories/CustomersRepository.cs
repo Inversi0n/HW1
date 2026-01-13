@@ -1,5 +1,6 @@
 ﻿using DAL.Orders.DbModels;
 using Microsoft.EntityFrameworkCore;
+using System.Linq.Expressions;
 
 namespace DAL.Orders.Repositories
 {
@@ -9,6 +10,16 @@ namespace DAL.Orders.Repositories
 
         public CustomersRepository(AppDbContext context) : base(context)
         {
+        }
+
+        public async Task<Customer[]> GetByEmails(params string[] emails)
+        {
+            return await _dbSet.Where(e => emails.Contains(e.Email)).ToArrayAsync();
+        }
+
+        public async Task<Customer[]> GetAllBy(Expression<Func<Customer, bool>> predicate)
+        {
+            return await _dbSet.Where(predicate).ToArrayAsync();
         }
     }
 }
