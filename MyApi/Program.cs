@@ -2,6 +2,7 @@
 using DAL.Orders.Services;
 using DAL.Orders.Services.Base;
 using Microsoft.EntityFrameworkCore;
+using Serilog;
 using Shared.Rabbit;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -40,6 +41,15 @@ builder.Services.AddSingleton<IRabbitPublisher, RabbitPublisher>();
 
 await builder.Build().RunAsync();
 
+Log.Logger = new LoggerConfiguration()
+    .Enrich.FromLogContext()
+    .Enrich.WithProperty("Service", "OrdersWorker")
+    .WriteTo.Console()
+
+    .WriteTo.Seq("http://seq:5341")
+    .CreateLogger();
+
+builder.Host.UseSerilog();
 
 var app = builder.Build();
 

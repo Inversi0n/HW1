@@ -2,6 +2,7 @@
 using DAL.Orders.Services;
 using DAL.Orders.Services.Base;
 using Microsoft.EntityFrameworkCore;
+using Serilog;
 using Shared.Rabbit;
 using WorkerService1;
 
@@ -37,5 +38,20 @@ builder.Services.AddHostedService<OutboxProcessorWorker>();
 
 //////
 ///
+
+builder.Logging.ClearProviders();
+//builder.Logging.AddSerilog(new LoggerConfiguration()
+//    .Enrich.FromLogContext()
+//    .WriteTo.Console()
+//    .WriteTo.Seq("http://seq:5341")
+//    .CreateLogger()
+//);
+
+builder.Services.AddSerilog((services, lc) =>
+{
+    lc.WriteTo.Console()
+      .WriteTo.Seq("http://seq:5341");
+});
+
 var host = builder.Build();
 host.Run();
